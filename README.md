@@ -69,21 +69,6 @@ The objective of this task is to design and implement a \*\*modern, aesthetic ca
 \- User-friendly, lightweight, and works on all modern browsers.
 
 
-
----
-
-
-
-\## 📸 Screenshots
-
-
-
-
-
-
-
-
-
 ---
 
 
@@ -109,5 +94,6 @@ The objective of this task is to design and implement a \*\*modern, aesthetic ca
 \- \*\*Domain:\*\* Web Development
 
 \- \*\*Internship:\*\* Oasis Infobyte (OIBSIP)
+
 
 
