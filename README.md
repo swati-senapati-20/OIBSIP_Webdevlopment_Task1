@@ -90,7 +90,7 @@ The objective of this task is to design and implement a \*\*modern, aesthetic ca
 
 \## 🔗 Project Links
 
-\- \*\*GitHub Repository:\*\* \[OIBSIP\_WebDevelopment\_Task1](YOUR\_REPO\_LINK\_HERE)
+\- \*\*GitHub Repository:https://github.com/swati-senapati-20/OIBSIP_Webdevlopment_Task1
 
 \- \*\*LinkedIn Post:\*\* \[View on LinkedIn](YOUR\_LINKEDIN\_POST\_LINK\_HERE)
 
@@ -109,4 +109,5 @@ The objective of this task is to design and implement a \*\*modern, aesthetic ca
 \- \*\*Domain:\*\* Web Development
 
 \- \*\*Internship:\*\* Oasis Infobyte (OIBSIP)
+
 
